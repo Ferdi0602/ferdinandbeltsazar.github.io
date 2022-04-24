@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### PKM "IMPLEMENTASI STATISTIKA DALAM KEHIDUPAN SEHARI-HARI 
 
 [PKM "IMPLEMENTASI STATISTIKA DALAM KEHIDUPAN SEHARI-HARI](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
